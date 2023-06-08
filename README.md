@@ -1,6 +1,8 @@
 # KakaoAPI_GPT
 This is a Kakaotalk OBT Chatbot inspired by GPT-3.5 API. 
 
+![Chat Example](image.png)
+
 # Chatbot and School Meal Parser
 
 This project is a Chatbot implemented using Flask and the OpenAI API. It uses GPT-3.5-turbo to generate chat completions. The bot also includes a school meal parser that fetches school menu data from a URL.
